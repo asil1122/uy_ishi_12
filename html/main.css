@@ -1,0 +1,39 @@
+.container{
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imgss{
+    height: auto;
+    width: 400px;
+}
+
+.tab{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.items{
+    width: 265px;
+    padding: 10px;
+    border: 1px solid blue;
+    margin-bottom: 20px;
+}
+
+.box{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+
+.cat{
+    border: 1px solid blue;
+    padding: 10px;
+}
+
+.imgs{
+    width: 167px;
+}
